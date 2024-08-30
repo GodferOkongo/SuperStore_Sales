@@ -32,7 +32,7 @@ Profit Margin = SUM(Sales[Profit]) / SUM(Sales[Sales])
 ```
 
 Visualisation:
-![Dashboard](Superstore_Dashboard.png)
+![Dashboard](assets/images/Superstore_Dashboard.png)
 
 
 Analyse:
