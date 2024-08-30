@@ -20,7 +20,7 @@ from StoreData
 
 
 Data transformation was completed in Power BI, where values were given the correct format. Then DAX measures were created to be used for the different charts and vizulisations on the dashboards. Finally, A date table was created and then joined to the sales table using a one-to-many relationship. This allows for certain metrics to be used to show both annually and quarterly.
-
+Dax Measures
 ```Dax
 Total Profit = SUM(Sales[Profit])
 ```
@@ -32,7 +32,7 @@ Profit Margin = SUM(Sales[Profit]) / SUM(Sales[Sales])
 ```
 
 Visualisation:
-
+![Dashboard](Superstore_dashboard.png)
 
 
 Analyse:
