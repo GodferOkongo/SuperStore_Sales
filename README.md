@@ -31,15 +31,15 @@ Total Sales = SUM(Sales[Sales])
 Profit Margin = SUM(Sales[Profit]) / SUM(Sales[Sales])
 ```
 
-Visualisation:
+## Visualisation:
 
 ![Dashboard](assets/images/Superstore_Dashboard.png)
 
 
-Analyse:
-Dashboard indicates that while the profit margin between all 3 segments are fairly simulary, the consumer segments bring the most amount of money, suggesting that products in that segment cost more to ship  and are more expensive. Furthermore, searching by region profit margins for consumer segments increase for both the south and west regions, but decrease substantially in central and east regions, possibly indicating.
+## Analyse and Recomendation
+Dashboard indicates that while the profit margin between all 3 segments are fairly simulary, the consumer segments bring the most amount of revenue ($661K) on average, suggesting that products in that segment may cost more to ship, or are more expensive to purchase for inventory. 
 
-Regarding regions, both west and bring in the most sales and have the highest profit margins. Central on the significantly struggles to see profit margins despite fairly high revenue, again suggesting difficulty in shipping. Overtime, east and west have been the most consistent regions for profit margin by quarter usually in the 10-20% range with high Q4s. Central again struggles, hovering around the 1% range although having a couple of outlier quarters.
+Regarding regions, the west brings hasa brought in the most sales ($725K) and have the highest profit margins (14.94%). Central significantly struggles to see profit margins despite fairly high revenue, again suggesting difficulty in shipping or high amount sales with products that do not earn much profit. Overtime, east and west have been the most consistent regions for profit margin by quarter usually in the 10-20% range with high Q4s. Central again struggles, hovering around the 1% range although having a couple of outlier Q4s.
 
-Recommendation:
-Overall heavy focus on West and east regions as they regularly have high and consistent profit margins and generate the most sales. In the east , it makes it easier to ship products, possibly focusing on warehouses for stock. Also focus on Home office and corporate products. South looks into more consistent Q4s.
+Recommendation
+Overall, heavy focus on West and east regions as they regularly have high and consistent profit margins and generate the most sales both in revenue and in total. In the central region, explore options in improve profit margins such as increase shipping price for customers, invest in a warehouses or other facilities for stock. Futhermore, focus on pushing home office and corporate products. Ivestigate South Q4s interms of why they are inconsistant and how to improve them for the future. 
