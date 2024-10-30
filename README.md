@@ -1,6 +1,6 @@
 # SuperStore_Sales
 
-## Objective:
+## Objective
 Using a kaggle superstore dataset, data was explored and cleaned in SQL before using Power BI to visualise trends related towards company sales and profit metrics for owners and shareholders. Dashboard was created to give insights for which customer segments and regions should be prioritised to maximise profit margins and sales in the future.
 
 
@@ -41,5 +41,5 @@ Dashboard indicates that while the profit margin between all 3 segments are fair
 
 Regarding regions, the west brings hasa brought in the most sales ($725K) and have the highest profit margins (14.94%). Central significantly struggles to see profit margins despite fairly high revenue, again suggesting difficulty in shipping or high amount sales with products that do not earn much profit. Overtime, east and west have been the most consistent regions for profit margin by quarter usually in the 10-20% range with high Q4s. Central again struggles, hovering around the 1% range although having a couple of outlier Q4s.
 
-Recommendation
+## Recommendation
 Overall, heavy focus on West and east regions as they regularly have high and consistent profit margins and generate the most sales both in revenue and in total. In the central region, explore options in improve profit margins such as increase shipping price for customers, invest in a warehouses or other facilities for stock. Futhermore, focus on pushing home office and corporate products. Ivestigate South Q4s interms of why they are inconsistant and how to improve them for the future. 
