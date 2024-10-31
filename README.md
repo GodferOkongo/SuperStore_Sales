@@ -36,7 +36,7 @@ Profit Margin = SUM(Sales[Profit]) / SUM(Sales[Sales])
 ![Dashboard](assets/images/Superstore_Dashboard.png)
 
 
-## Analyse and Recomendation
+## Analyse 
 Dashboard indicates that while the profit margin between all 3 segments are fairly simulary, the consumer segments bring the most amount of revenue ($661K) on average, suggesting that products in that segment may cost more to ship, or are more expensive to purchase for inventory. Futhermore, over the 4 year period total sales increased over __ % from 484K to 733K and the amount of sales increased from 1993 to 3312, illustrating overall positive growth. However, in the same period average __ spent decreased from $63.88 to $58.77 showing that the average customer is spending less.
 
 
