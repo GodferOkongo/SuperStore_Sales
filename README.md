@@ -37,7 +37,8 @@ Profit Margin = SUM(Sales[Profit]) / SUM(Sales[Sales])
 
 
 ## Analyse and Recomendation
-Dashboard indicates that while the profit margin between all 3 segments are fairly simulary, the consumer segments bring the most amount of revenue ($661K) on average, suggesting that products in that segment may cost more to ship, or are more expensive to purchase for inventory. 
+Dashboard indicates that while the profit margin between all 3 segments are fairly simulary, the consumer segments bring the most amount of revenue ($661K) on average, suggesting that products in that segment may cost more to ship, or are more expensive to purchase for inventory. Futhermore, over the 4 year period total sales increased over __ % from 484K to 733K and the amount of sales increased from 1993 to 3312, illustrating overall positive growth. However, in the same period average __ spent decreased from $63.88 to $58.77 showing that the average customer is spending less.
+
 
 Regarding regions, the west brings hasa brought in the most sales ($725K) and have the highest profit margins (14.94%). Central significantly struggles to see profit margins despite fairly high revenue, again suggesting difficulty in shipping or high amount sales with products that do not earn much profit. Overtime, east and west have been the most consistent regions for profit margin by quarter usually in the 10-20% range with high Q4s. Central again struggles, hovering around the 1% range although having a couple of outlier Q4s.
 
